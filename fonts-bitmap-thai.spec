@@ -2,7 +2,7 @@ Summary:	Collection of Thai bitmap fonts
 Summary(pl.UTF-8):	Kolekcja bitmapowych fontów tajskich
 Name:		fonts-bitmap-thai
 Version:	1.2.7
-Release:	1
+Release:	2
 License:	Public Domain, GPL v2+, MIT-like
 Group:		Fonts
 Source0:	http://linux.thai.net/pub/thailinux/software/thaixfonts/thaixfonts-%{version}.tar.xz
