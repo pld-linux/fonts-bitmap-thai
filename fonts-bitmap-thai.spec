@@ -2,7 +2,7 @@ Summary:	Collection of Thai bitmap fonts
 Summary(pl.UTF-8):	Kolekcja bitmapowych fontów tajskich
 Name:		fonts-bitmap-thai
 Version:	1.2.7
-Release:	2
+Release:	3
 License:	Public Domain, GPL v2+, MIT-like
 Group:		Fonts
 Source0:	http://linux.thai.net/pub/thailinux/software/thaixfonts/thaixfonts-%{version}.tar.xz
@@ -12,6 +12,7 @@ BuildRequires:	xorg-app-bdftopcf
 BuildRequires:	xorg-app-mkfontdir
 BuildRequires:	tar >= 1:1.22
 BuildRequires:	xz
+BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
